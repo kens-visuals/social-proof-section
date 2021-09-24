@@ -20,5 +20,23 @@ html {
 }
 
 body {
+  width: 100%;
+  min-height: 100vh;
   font-family: $font-primary;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: $color-secondary;
+  background-image: url(../images/bg-pattern-top-mobile.svg),
+    url(../images/bg-pattern-bottom-mobile.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-position: top left, bottom right;
+  background-size: 105%, 100%;
+
+  @media (min-width: 595px) {
+    background-image: url(../images/bg-pattern-top-desktop.svg),
+      url(../images/bg-pattern-bottom-desktop.svg);
+    background-size: 50%, 80%;
+  }
 }
