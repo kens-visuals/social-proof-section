@@ -44,12 +44,12 @@ Users should be able to:
 
 ### Continued development
 
-I experimented with CSS grid in this project, and I'm really excited to practice it more in my future pojects. I'm going to build much more complex layouts, which will be really fun with Css grid.
+I experimented with CSS grid in this project, and I'm really excited to practice it more in my future projects. I'm going to build much more complex layouts, which will be really fun with CSS grid.
 
 ### Useful resources
 
-- [animista](https://animista.net/) - Animista is a great website for small and simple CSS animations. After twitching a little bit I made what I wanted, really fast and really simple.
-- [CSS Grid Cheatsheet](https://yoksel.github.io/grid-cheatsheet/) - This is a really simple and cool designed cheatsheet for CSS grid.
+- [animista](https://animista.net/) - Animista is a great website for small and simple CSS animations. After twitching a bit I made what I wanted, really fast and really simple.
+- [CSS Grid Cheatsheet](https://yoksel.github.io/grid-cheatsheet/) - This is a really simple and cool designed cheat sheet for CSS grid.
 
 ## Author
 
