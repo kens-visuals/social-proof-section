@@ -12,6 +12,7 @@ html {
 body {
   width: 100%;
   min-height: 100vh;
+  font-size: 1.6rem;
   font-family: "Spartan", sans-serif;
   display: flex;
   align-items: center;
@@ -109,6 +110,7 @@ body {
       .content__review-star:not(:last-child) {
         margin-right: 0.6rem; }
     .content__review-text {
+      font-size: 1.6rem;
       color: #502050; }
   .content__comments {
     margin: 4rem 0; }
@@ -149,6 +151,7 @@ body {
         margin-right: 2.5rem; }
       .content__comment-author--info-name {
         font-size: 1.4rem;
+        font-weight: 700;
         margin-bottom: 0.5rem;
         opacity: 0.8; }
       .content__comment-author--info-badge {
@@ -162,7 +165,7 @@ body {
       line-height: 1.8; }
       @media (min-width: 1220px) {
         .content__comment-text {
-          font-size: 1.4em; } }
+          font-size: 1.4rem; } }
 
 .attribution {
   font-size: 0.8rem;
