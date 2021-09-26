@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [TBU](https://your-solution-url.com)
-- Live Site URL: [TBU](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-with-css-grid-flexbox-bem-and-scss-h-SsLpwkF](https://www.frontendmentor.io/solutions/social-proof-section-with-css-grid-flexbox-bem-and-scss-h-SsLpwkF)
+- Live Site URL: [https://kens-visuals.github.io/social-proof-section/](https://kens-visuals.github.io/social-proof-section/)
 
 ## My process
 
