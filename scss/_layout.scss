@@ -1,4 +1,8 @@
 .container {
   width: 90%;
   max-width: 460px;
+
+  @media (min-width: 1220px) {
+    max-width: 1250px;
+  }
 }
